@@ -1,0 +1,1 @@
+{"name":"Local: scoreserve","url":"d:\\cppOLD\\Questions\\scoreserve.cpp","tests":[{"id":1648754494567,"input":"4\n1\n5\n2\n1 1\n3\n1 2 3\n4\n2 1 2 2","output":"1\n1\n3\n3"},{"id":1652887994560,"input":"1\n5\n6 7 7 5 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\scoreserve.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: shoes","url":"d:\\cppOLD\\Questions\\shoes.cpp","tests":[{"id":1648651769351,"input":"3\n2 4\n6 0\n4 3","output":"2\n12\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\shoes.cpp","group":"local","local":true}

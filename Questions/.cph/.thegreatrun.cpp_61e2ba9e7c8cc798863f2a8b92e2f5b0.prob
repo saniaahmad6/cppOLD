@@ -1,0 +1,1 @@
+{"name":"Local: thegreatrun","url":"d:\\cppOLD\\Questions\\thegreatrun.cpp","tests":[{"id":1647877295599,"input":"2\n7 3\n2 4 8 1 2 1 \n7 2\n2 4 8 1 2 1 8","output":"14\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\thegreatrun.cpp","group":"local","local":true}

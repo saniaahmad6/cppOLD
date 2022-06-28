@@ -1,0 +1,1 @@
+{"name":"Local: gestures","url":"d:\\cppOLD\\Questions\\gestures.cpp","tests":[{"id":1647933724688,"input":"3\n5\nNNNYY\n6\nNNINNI\n4\nNNNN","output":"NOT INDIAN\nINDIAN\nNOT SURE"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\gestures.cpp","group":"local","local":true}

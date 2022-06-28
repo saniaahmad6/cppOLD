@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="MyWorkspace" Database="" Version="10000">
+  <Project Name="euro_to_dollar" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
+  <Project Name="RelationalOpertators" Path="RelationalOpertators/RelationalOpertators.project" Active="No"/>
+  <Project Name="MoneyBreakup" Path="MoneyBreakup/MoneyBreakup.project" Active="Yes"/>
+  <Project Name="Conditional" Path="Conditional/Conditional.project" Active="No"/>
+  <Project Name="Scores" Path="Scores/Scores.project" Active="No"/>
+  <Project Name="ShippingProject" Path="ShippingProject/ShippingProject.project" Active="No"/>
+  <Project Name="SwitchStatement" Path="SwitchStatement/SwitchStatement.project" Active="No"/>
+  <Project Name="SwitchStatement2" Path="SwitchStatement2/SwitchStatement2.project" Active="No"/>
+  <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="euro_to_dollar" ConfigName="Debug"/>
+      <Project Name="EqualityOperators" ConfigName="Debug"/>
+      <Project Name="RelationalOpertators" ConfigName="Debug"/>
+      <Project Name="MoneyBreakup" ConfigName="Debug"/>
+      <Project Name="Conditional" ConfigName="Debug"/>
+      <Project Name="Scores" ConfigName="Debug"/>
+      <Project Name="ShippingProject" ConfigName="Debug"/>
+      <Project Name="SwitchStatement" ConfigName="Debug"/>
+      <Project Name="SwitchStatement2" ConfigName="Debug"/>
+      <Project Name="ConditionalOperator" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="euro_to_dollar" ConfigName="Release"/>
+      <Project Name="EqualityOperators" ConfigName="Release"/>
+      <Project Name="RelationalOpertators" ConfigName="Release"/>
+      <Project Name="MoneyBreakup" ConfigName="Release"/>
+      <Project Name="Conditional" ConfigName="Release"/>
+      <Project Name="Scores" ConfigName="Release"/>
+      <Project Name="ShippingProject" ConfigName="Release"/>
+      <Project Name="SwitchStatement" ConfigName="Release"/>
+      <Project Name="SwitchStatement2" ConfigName="Release"/>
+      <Project Name="ConditionalOperator" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

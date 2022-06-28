@@ -1,0 +1,1 @@
+{"name":"Local: stock","url":"d:\\cppOLD\\Questions\\stock.cpp","tests":[{"id":1649341621045,"input":"7\n1 ABC 32\n1 XDC 54\n3 BUY\n1 XCD 32\n1 ABC 12\n2 XDC 10\n3 BUY","output":"ABC 3\nXDC 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\stock.cpp","group":"local","local":true}

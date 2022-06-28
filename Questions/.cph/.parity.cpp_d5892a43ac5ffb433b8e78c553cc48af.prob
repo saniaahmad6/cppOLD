@@ -1,0 +1,1 @@
+{"name":"Local: parity","url":"d:\\cppOLD\\Questions\\parity.cpp","tests":[{"id":1649017652828,"input":"3\n123\n19\n509","output":"124\n21\n511"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\parity.cpp","group":"local","local":true}

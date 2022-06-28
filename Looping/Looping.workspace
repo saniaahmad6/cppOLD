@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Looping" Database="" Version="10000">
+  <Project Name="forloop1" Path="forloop1/forloop1.project" Active="No"/>
+  <Project Name="ques" Path="ques/ques.project" Active="No"/>
+  <Project Name="range" Path="range/range.project" Active="No"/>
+  <Project Name="while" Path="while/while.project" Active="No"/>
+  <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
+  <Project Name="MenuQuestion" Path="MenuQuestion/MenuQuestion.project" Active="No"/>
+  <Project Name="ContinueBreak" Path="ContinueBreak/ContinueBreak.project" Active="No"/>
+  <Project Name="NestedLoop" Path="NestedLoop/NestedLoop.project" Active="No"/>
+  <Project Name="QuestionVector" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
+  <Project Name="codingexercise" Path="codingexercise/codingexercise.project" Active="No"/>
+  <Project Name="MenuList" Path="MenuList/MenuList.project" Active="No"/>
+  <Project Name="Quiz" Path="Quiz/Quiz.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="forloop1" ConfigName="Debug"/>
+      <Project Name="ques" ConfigName="Debug"/>
+      <Project Name="range" ConfigName="Debug"/>
+      <Project Name="while" ConfigName="Debug"/>
+      <Project Name="DoWhile" ConfigName="Debug"/>
+      <Project Name="MenuQuestion" ConfigName="Debug"/>
+      <Project Name="ContinueBreak" ConfigName="Debug"/>
+      <Project Name="NestedLoop" ConfigName="Debug"/>
+      <Project Name="QuestionVector" ConfigName="Debug"/>
+      <Project Name="Histogram" ConfigName="Debug"/>
+      <Project Name="codingexercise" ConfigName="Debug"/>
+      <Project Name="MenuList" ConfigName="Debug"/>
+      <Project Name="Quiz" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="forloop1" ConfigName="Release"/>
+      <Project Name="ques" ConfigName="Release"/>
+      <Project Name="range" ConfigName="Release"/>
+      <Project Name="while" ConfigName="Release"/>
+      <Project Name="DoWhile" ConfigName="Release"/>
+      <Project Name="MenuQuestion" ConfigName="Release"/>
+      <Project Name="ContinueBreak" ConfigName="Release"/>
+      <Project Name="NestedLoop" ConfigName="Release"/>
+      <Project Name="QuestionVector" ConfigName="Release"/>
+      <Project Name="Histogram" ConfigName="Release"/>
+      <Project Name="codingexercise" ConfigName="Release"/>
+      <Project Name="MenuList" ConfigName="Release"/>
+      <Project Name="Quiz" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

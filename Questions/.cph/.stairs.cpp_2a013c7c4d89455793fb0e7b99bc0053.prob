@@ -1,0 +1,1 @@
+{"name":"Local: stairs","url":"d:\\cppOLD\\Questions\\stairs.cpp","tests":[{"id":1647935167014,"input":"3\n5 10 15\n2 10 14\n7 14 10","output":"Elevator\nStairs\nStairs"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\stairs.cpp","group":"local","local":true}

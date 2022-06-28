@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="FirstWorkspace" Database="" Version="10000">
+  <Project Name="Project1" Path="Project1/Project1.project" Active="No"/>
+  <Project Name="roomcharge" Path="Project2/Project2.project" Active="No"/>
+  <Project Name="GlobalVariable" Path="GlobalVariable/GlobalVariable.project" Active="No"/>
+  <Project Name="sizeof" Path="sizeof/sizeof.project" Active="No"/>
+  <Project Name="datatypes" Path="datatypes/datatypes.project" Active="No"/>
+  <Project Name="roomcharge2" Path="roomcharge2/roomcharge2.project" Active="No"/>
+  <Project Name="vectors" Path="vectors/vectors.project" Active="No"/>
+  <Project Name="ExplicitTypeCast" Path="ExplicitTypeCast/ExplicitTypeCast.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Debug"/>
+      <Project Name="roomcharge" ConfigName="Debug"/>
+      <Project Name="GlobalVariable" ConfigName="Debug"/>
+      <Project Name="sizeof" ConfigName="Debug"/>
+      <Project Name="datatypes" ConfigName="Debug"/>
+      <Project Name="roomcharge2" ConfigName="Debug"/>
+      <Project Name="vectors" ConfigName="Debug"/>
+      <Project Name="ExplicitTypeCast" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Project1" ConfigName="Release"/>
+      <Project Name="roomcharge" ConfigName="Release"/>
+      <Project Name="GlobalVariable" ConfigName="Release"/>
+      <Project Name="sizeof" ConfigName="Release"/>
+      <Project Name="datatypes" ConfigName="Release"/>
+      <Project Name="roomcharge2" ConfigName="Release"/>
+      <Project Name="vectors" ConfigName="Release"/>
+      <Project Name="ExplicitTypeCast" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

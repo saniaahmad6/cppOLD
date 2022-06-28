@@ -1,0 +1,1 @@
+{"name":"Local: funnyhand","url":"d:\\cppOLD\\Questions\\funnyhand.cpp","tests":[{"id":1649018849980,"input":"3\n4 2 3\n6 2 1\n5 2 5","output":"2\n1\n0"},{"id":1649018929138,"input":"1\n4 2 3","output":"0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\funnyhand.cpp","group":"local","local":true}

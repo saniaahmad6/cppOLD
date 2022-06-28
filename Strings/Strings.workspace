@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Strings" Database="" Version="10000">
+  <Project Name="Cstyle_CharFunctions" Path="Cstyle_CharFunctions/Cstyle_CharFunctions.project" Active="No"/>
+  <Project Name="Cstrings" Path="Cstrings/Cstrings.project" Active="No"/>
+  <Project Name="CppStrings" Path="CppStrings/CppStrings.project" Active="No"/>
+  <Project Name="getline" Path="getline/getline.project" Active="No"/>
+  <Project Name="HalfPyramid" Path="SquarePattern/SquarePattern.project" Active="No"/>
+  <Project Name="Pyramid" Path="Pyramid/Pyramid.project" Active="No"/>
+  <Project Name="Squares" Path="Squares/Squares.project" Active="No"/>
+  <Project Name="CppStringsFunct" Path="CppStringsFunct/CppStringsFunct.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Cstyle_CharFunctions" ConfigName="Debug"/>
+      <Project Name="Cstrings" ConfigName="Debug"/>
+      <Project Name="CppStrings" ConfigName="Debug"/>
+      <Project Name="getline" ConfigName="Debug"/>
+      <Project Name="HalfPyramid" ConfigName="Debug"/>
+      <Project Name="Pyramid" ConfigName="Debug"/>
+      <Project Name="Squares" ConfigName="Debug"/>
+      <Project Name="CppStringsFunct" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Cstyle_CharFunctions" ConfigName="Release"/>
+      <Project Name="Cstrings" ConfigName="Release"/>
+      <Project Name="CppStrings" ConfigName="Release"/>
+      <Project Name="getline" ConfigName="Release"/>
+      <Project Name="HalfPyramid" ConfigName="Release"/>
+      <Project Name="Pyramid" ConfigName="Release"/>
+      <Project Name="Squares" ConfigName="Release"/>
+      <Project Name="CppStringsFunct" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

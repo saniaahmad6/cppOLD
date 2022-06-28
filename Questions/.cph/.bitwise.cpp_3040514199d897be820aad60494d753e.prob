@@ -1,0 +1,1 @@
+{"name":"Local: bitwise","url":"d:\\cppOLD\\Questions\\bitwise.cpp","tests":[{"id":1648048446226,"input":"3\n2\n3\n4","output":"0\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\bitwise.cpp","group":"local","local":true}

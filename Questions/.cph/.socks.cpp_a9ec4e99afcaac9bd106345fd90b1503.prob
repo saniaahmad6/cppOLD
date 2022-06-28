@@ -1,0 +1,1 @@
+{"name":"Local: socks","url":"d:\\cppOLD\\Questions\\socks.cpp","tests":[{"id":1649339271650,"input":"1\n1 1","output":"1"},{"id":1649339292151,"input":"3\n2 1 1 3 2 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\socks.cpp","group":"local","local":true}

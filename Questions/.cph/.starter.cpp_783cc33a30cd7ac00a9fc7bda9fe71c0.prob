@@ -1,0 +1,1 @@
+{"name":"Local: starter","url":"d:\\cppOLD\\Questions\\starter.cpp","tests":[{"id":1650465616866,"input":"3\n4 0\n0 1\n3 1","output":"Off\nOn\nAmbiguous"},{"id":1650467832789,"input":"3\n2 3\n3 3\n4 2\n1 2 3 4\n1 6\n2","output":"2\n4\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cppOLD\\Questions\\starter.cpp","group":"local","local":true}
